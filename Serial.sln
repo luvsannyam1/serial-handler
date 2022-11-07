@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SerialHandler", "SerialHandler\SerialHandler.csproj", "{6DAD6BF9-D24B-4E83-B3DC-04FC452D48AA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FDF5E494-ADF3-4C9E-9A3B-2EF4E98E01DD}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DAD6BF9-D24B-4E83-B3DC-04FC452D48AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DAD6BF9-D24B-4E83-B3DC-04FC452D48AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DAD6BF9-D24B-4E83-B3DC-04FC452D48AA}.Debug|x64.ActiveCfg = Debug|x64
+		{6DAD6BF9-D24B-4E83-B3DC-04FC452D48AA}.Debug|x64.Build.0 = Debug|x64
+		{6DAD6BF9-D24B-4E83-B3DC-04FC452D48AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DAD6BF9-D24B-4E83-B3DC-04FC452D48AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DAD6BF9-D24B-4E83-B3DC-04FC452D48AA}.Release|x64.ActiveCfg = Release|x64
+		{6DAD6BF9-D24B-4E83-B3DC-04FC452D48AA}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C97FB272-C7BB-47B2-9665-ADA2865C6DF0}
+	EndGlobalSection
+EndGlobal

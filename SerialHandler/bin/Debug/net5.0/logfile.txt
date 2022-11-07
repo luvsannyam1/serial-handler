@@ -1,0 +1,183 @@
+12/7/2021 10:23:32 AM
+Server Thread has started.
+
+12/7/2021 10:28:17 AM
+Server Thread has started.
+
+12/7/2021 10:30:34 AM
+Server Thread has started.
+Connecting to 
+12/7/2021 10:31:03 AM
+Server Thread has started.
+Connecting to COM1
+12/7/2021 11:26:50 AM
+Server Thread has started.
+Connecting to COM1
+12/7/2021 12:39:23 PM
+Server Thread has started.
+Connecting to COM1
+12/7/2021 12:59:06 PM
+Server Thread has started.
+Connecting to COM1
+12/7/2021 11:47:33 PM
+Server Thread has started.
+Connecting to COM1
+12/7/2021 11:48:55 PM
+Server Thread has started.
+Connecting to COM1
+12/8/2021 8:30:29 AM
+Server Thread has started.
+Connecting to COM1
+12/8/2021 8:34:30 AM
+Server Thread has started.
+Connecting to COM1
+12/8/2021 8:39:13 AM
+Server Thread has started.
+Connecting to COM1
+12/8/2021 8:43:44 AM
+Server Thread has started.
+Connecting to COM8
+12/8/2021 8:48:06 AM
+Server Thread has started.
+Connecting to COM8
+12/8/2021 8:49:50 AM
+Server Thread has started.
+Connecting to COM8
+12/8/2021 8:51:57 AM
+Server Thread has started.
+Connecting to COM8
+12/8/2021 8:52:55 AM
+Server Thread has started.
+Connecting to COM8
+12/8/2021 9:00:09 AM
+Server Thread has started.
+Connecting to COM8
+12/8/2021 9:14:54 AM
+Server Thread has started.
+Connecting to COM8
+12/8/2021 9:17:51 AM
+Server Thread has started.
+Connecting to COM8
+12/8/2021 9:19:32 AM
+Server Thread has started.
+Connecting to COM8
+12/8/2021 9:20:07 AM
+Server Thread has started.
+Connecting to COM8
+12/8/2021 9:21:16 AM
+Server Thread has started.
+Connecting to COM8
+12/8/2021 9:21:49 AM
+Server Thread has started.
+Connecting to COM8
+12/8/2021 9:22:44 AM
+Server Thread has started.
+Connecting to COM8
+12/8/2021 9:24:18 AM
+Server Thread has started.
+Connecting to COM8
+12/8/2021 9:25:25 AM
+Server Thread has started.
+Connecting to COM8
+Connecting to System.IO.IOException: A device which does not exist was specified. : 'COM8'
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at SerialHandler.SerialThread.connect(String address) in C:\Users\luuya\source\repos\Serial\SerialHandler\SerialThread.cs:line 76
+   at SerialHandler.SerialThread..ctor(String address) in C:\Users\luuya\source\repos\Serial\SerialHandler\SerialThread.cs:line 50
+12/8/2021 9:25:32 AM
+Server Thread has started.
+Connecting to COM8
+Connecting to System.IO.IOException: A device which does not exist was specified. : 'COM8'
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at SerialHandler.SerialThread.connect(String address) in C:\Users\luuya\source\repos\Serial\SerialHandler\SerialThread.cs:line 76
+   at SerialHandler.SerialThread..ctor(String address) in C:\Users\luuya\source\repos\Serial\SerialHandler\SerialThread.cs:line 50
+12/8/2021 9:26:13 AM
+Server Thread has started.
+Connecting to COM8
+12/8/2021 9:27:53 AM
+Server Thread has started.
+Connecting to COM8
+12/8/2021 9:28:46 AM
+Server Thread has started.
+Connecting to COM8
+12/8/2021 9:37:58 AM
+Server Thread has started.
+Connecting to COM8
+12/8/2021 9:38:19 AM
+Server Thread has started.
+Connecting to COM8
+12/8/2021 9:40:48 AM
+Server Thread has started.
+Connecting to COM8
+12/8/2021 9:42:03 AM
+Server Thread has started.
+Connecting to COM8
+12/8/2021 9:42:19 AM
+Server Thread has started.
+Connecting to COM8
+12/8/2021 9:42:59 AM
+Server Thread has started.
+Connecting to COM8
+12/8/2021 9:44:12 AM
+Server Thread has started.
+Connecting to COM8
+12/8/2021 9:45:04 AM
+Server Thread has started.
+Connecting to COM8
+12/8/2021 9:46:07 AM
+Server Thread has started.
+Connecting to COM8
+12/8/2021 9:47:13 AM
+Server Thread has started.
+Connecting to COM8
+12/8/2021 9:47:46 AM
+Server Thread has started.
+Connecting to COM8
+12/8/2021 9:48:48 AM
+Server Thread has started.
+Connecting to COM8
+12/8/2021 9:50:49 AM
+Server Thread has started.
+Connecting to COM8
+12/8/2021 9:55:18 AM
+Server Thread has started.
+Connecting to COM8
+Connecting to System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.DiscardOutBuffer()
+   at SerialHandler.SerialThread.connect(String address) in C:\Users\luuya\source\repos\Serial\SerialHandler\SerialThread.cs:line 71
+   at SerialHandler.SerialThread..ctor(String address) in C:\Users\luuya\source\repos\Serial\SerialHandler\SerialThread.cs:line 51
+12/8/2021 9:55:47 AM
+Server Thread has started.
+Connecting to COM8
+Connecting to System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.DiscardOutBuffer()
+   at SerialHandler.SerialThread.connect(String address) in C:\Users\luuya\source\repos\Serial\SerialHandler\SerialThread.cs:line 71
+   at SerialHandler.SerialThread..ctor(String address) in C:\Users\luuya\source\repos\Serial\SerialHandler\SerialThread.cs:line 51
+12/8/2021 9:56:51 AM
+Server Thread has started.
+Connecting to COM8
+12/8/2021 9:58:23 AM
+Server Thread has started.
+Connecting to COM8
+12/8/2021 9:59:14 AM
+Server Thread has started.
+Connecting to COM8
+12/8/2021 10:01:59 AM
+Server Thread has started.
+Connecting to COM8
+12/8/2021 10:04:07 AM
+Server Thread has started.
+Connecting to COM8
+12/8/2021 10:04:53 AM
+Server Thread has started.
+Connecting to COM8
+12/8/2021 10:06:05 AM
+Server Thread has started.
+Connecting to COM8
+12/8/2021 10:07:13 AM
+Server Thread has started.
+Connecting to COM8
+12/8/2021 10:09:34 AM
+Server Thread has started.
+Connecting to COM8

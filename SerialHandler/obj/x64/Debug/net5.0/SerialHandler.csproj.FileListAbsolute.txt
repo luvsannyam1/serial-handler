@@ -1,0 +1,16 @@
+C:\Users\luuya\Desktop\serial\net5.0\SerialHandler.exe
+C:\Users\luuya\Desktop\serial\net5.0\SerialHandler.deps.json
+C:\Users\luuya\Desktop\serial\net5.0\SerialHandler.runtimeconfig.json
+C:\Users\luuya\Desktop\serial\net5.0\SerialHandler.runtimeconfig.dev.json
+C:\Users\luuya\Desktop\serial\net5.0\SerialHandler.dll
+C:\Users\luuya\Desktop\serial\net5.0\ref\SerialHandler.dll
+C:\Users\luuya\Desktop\serial\net5.0\SerialHandler.pdb
+C:\Users\luuya\source\repos\Serial\SerialHandler\obj\x64\Debug\net5.0\SerialHandler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luuya\source\repos\Serial\SerialHandler\obj\x64\Debug\net5.0\SerialHandler.AssemblyInfoInputs.cache
+C:\Users\luuya\source\repos\Serial\SerialHandler\obj\x64\Debug\net5.0\SerialHandler.AssemblyInfo.cs
+C:\Users\luuya\source\repos\Serial\SerialHandler\obj\x64\Debug\net5.0\SerialHandler.csproj.CoreCompileInputs.cache
+C:\Users\luuya\source\repos\Serial\SerialHandler\obj\x64\Debug\net5.0\SerialHandler.csproj.CopyComplete
+C:\Users\luuya\source\repos\Serial\SerialHandler\obj\x64\Debug\net5.0\SerialHandler.dll
+C:\Users\luuya\source\repos\Serial\SerialHandler\obj\x64\Debug\net5.0\ref\SerialHandler.dll
+C:\Users\luuya\source\repos\Serial\SerialHandler\obj\x64\Debug\net5.0\SerialHandler.pdb
+C:\Users\luuya\source\repos\Serial\SerialHandler\obj\x64\Debug\net5.0\SerialHandler.genruntimeconfig.cache

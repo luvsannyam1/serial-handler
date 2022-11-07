@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>SerialHandler</id>
+    <version>1.0.0</version>
+    <authors>SerialHandler</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0">
+        <dependency id="Json.Net" version="1.0.33" exclude="Build,Analyzers" />
+        <dependency id="Remote.Linq.Newtonsoft.Json" version="7.0.0" exclude="Build,Analyzers" />
+        <dependency id="System.IO.Ports" version="6.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\luuya\Documents\repos\Serial\SerialHandler\bin\x64\Release\net5.0\SerialHandler.runtimeconfig.json" target="lib\net5.0\SerialHandler.runtimeconfig.json" />
+    <file src="C:\Users\luuya\Documents\repos\Serial\SerialHandler\bin\x64\Release\net5.0\SerialHandler.dll" target="lib\net5.0\SerialHandler.dll" />
+  </files>
+</package>
